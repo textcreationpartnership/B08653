@@ -1,0 +1,145 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The case of the French Protestants refugees, settled in and about London, and in the English plantations in America</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1696</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 4 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B08653</idno>
+            <idno type="STC">Wing C1080A</idno>
+            <idno type="STC">ESTC R171001</idno>
+            <idno type="EEBO-CITATION">69648552</idno>
+            <idno type="OCLC">ocm 69648552</idno>
+            <idno type="VID">184872</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B08653)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 184872)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2878:6)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The case of the French Protestants refugees, settled in and about London, and in the English plantations in America</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1696]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place and date of publication suggested by Wing (2nd ed.).</note>
+                  <note>Reproduction of original in: Harvard University. Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Act for preventing frauds, and regulating abuses in the plantation trade.</term>
+               <term>Huguenots --  Early works to 1800.</term>
+               <term>Plantations --  America --  Early works to 1800.</term>
+               <term>Great Britain --  Colonies --  Administration --  Law and legislation --  Early works to 1800.</term>
+               <term>Great Britain --  Colonies --  Commerce --  Early works to 1800.</term>
+               <term>Great Britain --  Commercial policy --  Early works to 1800.</term>
+               <term>Broadsides --  England --  London --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-02</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-02</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:184872:1"/>
+            <head>The CASE of the French Prote<g ref="char:EOLhyphen"/>ſtants Refugees, ſettled in and about London, and in the Engliſh Plantations in America.</head>
+            <p>WHereas there is a Clauſe in a Bill brought into the Honorable Houſe of Com<g ref="char:EOLhyphen"/>mons, Entituled, <hi>An Act for preventing Frauds, and Regulating Abuſes in the Plan<g ref="char:EOLhyphen"/>tation-Trade;</hi> in theſe Words, <hi>viz.</hi>
+            </p>
+            <p>
+               <hi>And be it further Enacted, by the Authority aforeſaid, That no Alien or Foreigner, or any Perſon or Perſons, other than ſuch as are Natives of</hi> England <hi>or</hi> Ireland, <hi>or ſuch Perſons as are born in His Majeſty's Plantations in</hi> Aſia, Africa, <hi>or</hi> America, <hi>ſhall, after the <gap reason="blank" extent="1 span">
+                     <desc>〈1 span left blank〉</desc>
+                  </gap> Day of <gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap> Exerciſe the Trade or Occupation of a Merchant or Factor, in any of the ſaid Plan<g ref="char:EOLhyphen"/>tations, upon pain of the Forfeiture of <gap reason="blank" extent="1 span">
+                     <desc>〈1 span left blank〉</desc>
+                  </gap> one <gap reason="blank" extent="1 span">
+                     <desc>〈1 span left blank〉</desc>
+                  </gap> to His Majeſty, one to the Governor of the Plantation, where ſuch Perſons ſhall ſo offend, and the other <gap reason="blank" extent="1 span">
+                     <desc>〈1 span left blank〉</desc>
+                  </gap> to the Perſon ſuing for the ſame in any of His Majeſty's Courts in the Plantation where ſuch Offence ſhall be committed,</hi> &amp;c.</p>
+            <p>The French Proteſtants Refugees in this Kingdom, in behalf of themſelves, and of the French Proteſtant Refugees ſettled in the Engliſh Plantations in <hi>America,</hi> do humbly Repreſent, That having been cruelly proſecuted in their Native Countrey, for the ſake of their Religion, they came and ſheltered themſelves in this Kingdom, being invited there-to by the late King <hi>Charles</hi> the Second's <hi>Declaration</hi> of the 28th of <hi>July</hi> 1681: And ſince, by another of his preſent Majeſty, made the 25th of <hi>April</hi> 1689, inviting all French Proteſtants hither, and promiſing them their Protection <hi>&amp;c.</hi>
+            </p>
+            <p>That upon this Encouragement they came over in great Numbers, bringing all they could convey away with them, with their Trades, Arts, and Manufactures, and were very kindly received by this Nation, and had that Favour ſhewn to them, that a great many of them were made Free Deniſons.</p>
+            <p>That they alſo being invited by ſeveral of the Lords Proprietors of the Engliſh Plantations in <hi>America,</hi> to go thither and inhabit thoſe Countries, many of them tranſported themſelves and Families there, with great Hazards, Troubles and Charges.</p>
+            <p>That ſome Hundred Families of them are now ſettled there, and have improved in a man<g ref="char:EOLhyphen"/>ner thoſe Colonies, by making the Ground Arable, and by their Trades, Labours and Indu<g ref="char:EOLhyphen"/>ſtry; inſomuch, that particularly <hi>Carolina</hi> and <hi>New York</hi> are, for the moſt, inhabited by them.</p>
+            <p>That the ſaid French Proteſtants Refugees, ſettled here and in thoſe Countries, have, on all Occaſions, ſhewed their Loyalty, Zeal and Affection, to the preſent Government, by ſuppor<g ref="char:EOLhyphen"/>ting very chearfully the Charges and Taxes of the Land, and wearing Arms for the Defence of it, eſpecially in the Attacks of <hi>Quebek, Martinico, Guadalupa, Jamaica,</hi> and <hi>St. Domingo,</hi> ſe<g ref="char:EOLhyphen"/>veral having loſt their Lives, and others being wounded, in thoſe Occaſions: And many there and here being come to great Loſſes, both by the Earthquake at <hi>Jamaica,</hi> and by the Enemies Privatiers at Sea.</p>
+            <p>That if ſuch a Clauſe ſhould be inſerted, all thoſe poor People there would be reduced to the greateſt Extremities, or forced to return back to <hi>England,</hi> where they muſt ſtarve, or be maintained by the Publick Charity. Beſides the great Prejudice thoſe who are ſettled in this Kingdom will unavoidably receive by it, having the moſt part of their ſmall Stocks imployed in the Plantation Trade, to ſupport their Brethren there, and procure a ſmall Livelihood to their Families here.</p>
+            <p>
+               <hi>Therefore they humbly pray this Honorable Houſe to commiſerate their Condition, and uſe ſuch Methods for their Relief, as this Honorable Houſe in their Wiſdom and Charity ſhall think fit.</hi>
+            </p>
+         </div>
+      </body>
+   </text>
+</TEI>
